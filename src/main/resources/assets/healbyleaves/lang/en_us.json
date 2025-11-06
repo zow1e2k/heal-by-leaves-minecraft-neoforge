@@ -1,0 +1,13 @@
+{
+  "itemGroup.healbyleaves": "Example Mod Tab",
+  "block.healbyleaves.example_block": "Example Block",
+  "item.healbyleaves.example_item": "Example Item",
+
+  "healbyleaves.configuration.title": "heal-by-leaves Configs",
+  "healbyleaves.configuration.section.healbyleaves.common.toml": "heal-by-leaves Configs",
+  "healbyleaves.configuration.section.healbyleaves.common.toml.title": "heal-by-leaves Configs",
+  "healbyleaves.configuration.items": "Item List",
+  "healbyleaves.configuration.logDirtBlock": "Log Dirt Block",
+  "healbyleaves.configuration.magicNumberIntroduction": "Magic Number Text",
+  "healbyleaves.configuration.magicNumber": "Magic Number"
+}
