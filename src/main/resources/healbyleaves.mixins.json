@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "com.zow1e2k.minecraft.heal_by_leaves.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "healbyleaves.refmap.json",
+  "mixins": [
+    "LeafLitterMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
